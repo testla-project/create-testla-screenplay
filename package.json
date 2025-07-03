@@ -1,6 +1,6 @@
 {
-  "name": "create-testla-screenplay",
-  "version": "0.1.0-alpha.1",
+  "name": "@testla/create-testla-screenplay",
+  "version": "1.0.0-alpha.1",
   "description": "Scaffold tool for testla-screenplay projects",
   "bin": {
     "create-testla-screenplay": "./bin/index.js"

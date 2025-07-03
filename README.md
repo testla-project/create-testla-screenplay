@@ -1,4 +1,4 @@
-# Create Testla Screenplay - 🎭 **CLI tool for quickly creating Testla Screenplay projects with Playwright**
+# **🎭 Create Testla Screenplay - CLI tool for quickly creating Testla Screenplay projects with Playwright 🎭**
 
 This package provides an initializer to interactively and automatically set up new Testla Screenplay projects with Playwright.
 
@@ -106,7 +106,6 @@ Happy hacking! 🎭
 
 - [Testla Screenplay Playwright](https://github.com/testla-project/testla-screenplay-playwright-js/)
 - [Discord Community](https://discord.gg/MDRjCH3v)
-- [Playwright Documentation](https://playwright.dev/)
 
 ## License
 

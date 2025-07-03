@@ -73,7 +73,7 @@ Main configuration is done through:
 ## 📚 Documentation
 
 ### Official Testla Screenplay Documentation
-🔗 **[Testla Screenplay Playwright Documentation](https://github.com/testla-project/testla-screenplay-playwright-js/tree/main/docs)**
+🔗 **[Testla Screenplay Playwright Documentation](https://github.com/testla-project/testla-screenplay-playwright-js/blob/main/README.md)**
 
 The official documentation contains:
 - Detailed guides to the Screenplay Pattern
@@ -81,13 +81,10 @@ The official documentation contains:
 - Best practices
 - Advanced examples
 
-### Playwright Documentation
-🔗 **[Playwright Documentation](https://playwright.dev/)**
-
 ## 💬 Community & Support
 
 ### Discord Channel
-🚀 **[Join our Discord Channel](https://discord.gg/MDRjCH3v)**
+🚀 **[Join our Discord Channel](https://discord.gg/MDRjCH3v)** 🚀
 
 Here you can:
 - Ask questions
