@@ -8,9 +8,10 @@ You can create a new Testla Screenplay project using one of the following comman
 
 ```bash
 # In the current directory (recommended: create an empty directory first)
-npm init testla-screenplay
-yarn create testla-screenplay
-pnpm create testla-screenplay
+npm init @testla/screenplay
+npx @testla/create-screenplay
+yarn create @testla/screenplay
+pnpm create @testla/screenplay
 ```
 
 The tool uses the current directory name as the project name and sets up the project structure there.
@@ -19,7 +20,7 @@ The tool uses the current directory name as the project name and sets up the pro
 ```bash
 mkdir my-tests
 cd my-tests
-npm init testla-screenplay
+npm init @testla/screenplay
 # Project name is "my-tests"
 ```
 

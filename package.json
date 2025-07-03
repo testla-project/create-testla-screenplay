@@ -1,9 +1,9 @@
 {
-  "name": "@testla/create-testla-screenplay",
-  "version": "1.0.0-alpha.1",
+  "name": "@testla/create-screenplay",
+  "version": "1.0.0",
   "description": "Scaffold tool for testla-screenplay projects",
   "bin": {
-    "create-testla-screenplay": "./bin/index.js"
+    "create-screenplay": "./bin/index.js"
   },
   "keywords": [
     "testla",
@@ -22,5 +22,16 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testla-project/create-testla-screenplay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/testla-project/create-testla-screenplay/issues"
+  },
+  "homepage": "https://github.com/testla-project/create-testla-screenplay#readme"
 }
