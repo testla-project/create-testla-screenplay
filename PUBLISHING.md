@@ -3,7 +3,7 @@
 ## How to publish create-testla-screenplay
 
 1. **Update version** in `package.json`
-2. **Test locally** using `npx create-testla-screenplay`
+2. **Test locally** using `npx create @testla/create-screenplay`
 3. **Login to npm** (if not already): `npm login`
 4. **Publish**: `npm publish`
 
@@ -21,7 +21,7 @@ mkdir test-project
 cd test-project
 
 # Test with npx
-npx create-testla-screenplay
+npx create @testla/create-screenplay
 ```
 
 ## How users will use it

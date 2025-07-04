@@ -41,8 +41,8 @@ export default async function promptConfig() {
       type: "list",
       name: "reporter",
       message: "Which reporter do you want to use?",
-      choices: ["testla-reporter", "html", "junit", "json", "list", "dot"],
-      default: "testla-reporter"
+      choices: ["screenplay:text", "playwright:html", "playwright:junit", "playwright:json", "playwright:list", "playwright:dot"],
+      default: "screenplay:text"
     }
   ]);
 }
